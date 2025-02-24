@@ -1,6 +1,6 @@
 ---
 title: "Yuhan Xiao"
-image: "yuhanx.jpg"
+image: "yuhanx.jpeg"
 faxicon: "faxicon.ico"
 links:
   - label: '`r fontawesome::fa("linkedin", fill = "#0F52BA", height="1em", width="1em") ` LinkedIn'
@@ -20,9 +20,9 @@ library(fontawesome)
 
 ### About
 
-Hi everyone, my name is Yuhan, and I'm currently a second-year [ScM in Biostatistics](https://publichealth.jhu.edu/academics/scm-dept-of-biostatistics) student at [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/). My research interests focus on leveraging real-world evidence (RWE) - such as electronic health records and claims data - to address public health challenges.
+Hi everyone, I'm Yuhan! I'm currently a second-year [ScM in Biostatistics](https://publichealth.jhu.edu/academics/scm-dept-of-biostatistics) student at [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/). My research interests focus on leveraging real-world evidence (RWE) and clinical trial data to address pressing health challenges.
 
-I graduated with a B.S. in [Honors Mathematics](https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/honors-mathematics.html) from the [University of Michigan](https://umich.edu/), where I first developed my quantitative skills. After completing my degree, I worked as a statistical programmer specializing in health policy at [Acumen, LLC](https://www.acumenllc.com/). It was during this time that I discovered my passion for data analysis and public health. Most recently, I further honed my skills as a summer HEOR analyst intern at [Analysis Group](https://www.analysisgroup.com/), where I conducted statistical analyses using extensive claims and survey data. This experience deepened my understanding of the intersection between data and healthcare, solidifying my commitment to leveraging data-driven insights to improve public health outcomes.
+I graduated with a B.S. in [Honors Mathematics](https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/honors-mathematics.html) from the [University of Michigan](https://umich.edu/), where I first developed a strong foundation in quantitative analysis. After graduating, I worked as a statistical programmer specializing in health policy at [Acumen, LLC](https://www.acumenllc.com/). During this time, I discovered my passion for data analysis and public health. Most recently, I further honed my skills as a summer HEOR analyst intern at [Analysis Group](https://www.analysisgroup.com/), where I conducted statistical analyses using claims, survey, and electronic health records (EHR) data. Currently, I am a graduate research assistant at the [Johns Hopkins School of Medicine](https://www.hopkinsmedicine.org/) in oncology survival analysis.
 
 Outside of school, I enjoy walking in nature, listening to music, and learning Spanish. 
 
