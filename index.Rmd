@@ -20,11 +20,13 @@ library(fontawesome)
 
 ### About
 
-Hi everyone, I'm Yuhan! I'm currently a second-year [ScM in Biostatistics](https://publichealth.jhu.edu/academics/scm-dept-of-biostatistics) student at [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/). My research interests focus on leveraging real-world evidence (RWE) and clinical trial data to address pressing health challenges.
+Hi everyone, I'm Yuhan! I recently earned my [ScM in Biostatistics](https://publichealth.jhu.edu/academics/scm-dept-of-biostatistics) from the [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/), where I developed a strong interest in leveraging real-world evidence (RWE) and clinical trial data to address complex public health and biomedical challenges.
 
-I graduated with a B.S. in [Honors Mathematics](https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/honors-mathematics.html) from the [University of Michigan](https://umich.edu/), where I first developed a strong foundation in quantitative analysis. After graduating, I worked as a statistical programmer specializing in health policy at [Acumen, LLC](https://www.acumenllc.com/). During this time, I discovered my passion for data analysis and public health. Most recently, I further honed my skills as a summer HEOR analyst intern at [Analysis Group](https://www.analysisgroup.com/), where I conducted statistical analyses using claims, survey, and electronic health records (EHR) data. Currently, I am a graduate research assistant at the [Johns Hopkins School of Medicine](https://www.hopkinsmedicine.org/) in oncology survival analysis.
+I hold a B.S. in [Honors Mathematics](https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/honors-mathematics.html) from the [University of Michigan](https://umich.edu/), where I built a solid foundation in quantitative analysis. After graduation, I worked as a statistical programmer at [Acumen, LLC](https://www.acumenllc.com/), focusing on health policy research. This experience sparked my passion for data-driven public health work.
 
-Outside of school, I enjoy walking in nature, listening to music, and learning Spanish. 
+I further expanded my skill set as a summer healthcare analyst intern at [Analysis Group](https://www.analysisgroup.com/), where I conducted statistical analyses using claims, survey, and electronic health records (EHR) data. Most recently, I worked as a graduate research assistant at the [Johns Hopkins School of Medicine](https://www.hopkinsmedicine.org/), contributing to oncology survival analysis projects.
+
+Outside of work and academics, I enjoy walking in nature, listening to music, and rewatching episodes of *Friends*.
 
 ### Education
 
