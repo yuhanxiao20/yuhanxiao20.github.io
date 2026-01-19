@@ -26,17 +26,33 @@ Outside of work and academics, I enjoy walking in nature, listening to music, an
 
 ### Professional Experience
 
-Senior Computational Statistician | Eli Lilly and Company | Indianapolis, IN | June 2025 - January 2026 <br>
-Scholar | Hopkins Business of Health Initiative (HBHI) | Baltimore, MD | November 2024 - May 2025 <br>
-Analyst Intern - Healthcare | Analysis Group | Boston, MA | June 2024 - August 2024 <br>
-Graduate Research Assistant | Johns Hopkins School of Medicine | Baltimore, MD | April 2024 - May 2025 <br>
-Data and Policy Analyst I - Statistical Programmer | Acumen, LLC | Burlingame, CA | August 2022 - June 2023
+**Senior Computational Statistician**  
+Eli Lilly and Company · Indianapolis, IN  
+*June 2025 – January 2026*
+
+**Scholar**  
+Hopkins Business of Health Initiative (HBHI) · Baltimore, MD  
+*November 2024 – May 2025*
+
+**Analyst Intern – Healthcare**  
+Analysis Group · Boston, MA  
+*June 2024 – August 2024*
+
+**Graduate Research Assistant**  
+Johns Hopkins School of Medicine · Baltimore, MD  
+*April 2024 – May 2025*
+
+**Data and Policy Analyst I – Statistical Programmer**  
+Acumen, LLC · Burlingame, CA  
+*August 2022 – June 2023*
+
 
 ### Education
 
-ScM in Biostatistics | Johns Hopkins University <br>
-B.S. in Honors Mathematics | University of Michigan, Ann Arbor
+**ScM in Biostatistics**  
+Johns Hopkins University · Baltimore, MD  
+*2025*
 
-### Programming Experience
-
-R, Python, SAS, SQL <br>
+**B.S. in Honors Mathematics**  
+University of Michigan, Ann Arbor · Ann Arbor, MI  
+*2022*
