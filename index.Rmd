@@ -20,13 +20,17 @@ library(fontawesome)
 
 ### About
 
-Hi everyone, I'm Yuhan! I recently earned my [ScM in Biostatistics](https://publichealth.jhu.edu/academics/scm-dept-of-biostatistics) from the [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/), where I developed a strong interest in leveraging real-world evidence (RWE) and clinical trial data to address complex public health and biomedical challenges.
-
-I hold a B.S. in [Honors Mathematics](https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/honors-mathematics.html) from the [University of Michigan](https://umich.edu/), where I built a solid foundation in quantitative analysis. After graduation, I worked as a statistical programmer at [Acumen, LLC](https://www.acumenllc.com/), focusing on health policy research. This experience sparked my passion for data-driven public health work.
-
-I further expanded my skill set as a summer healthcare analyst intern at [Analysis Group](https://www.analysisgroup.com/), where I conducted statistical analyses using claims, survey, and electronic health records (EHR) data. Most recently, I worked as a graduate research assistant at the [Johns Hopkins School of Medicine](https://www.hopkinsmedicine.org/), contributing to oncology survival analysis projects.
+Hi everyone, I'm Yuhan! I’m a healthcare data and biostatistics professional with experience across pharmaceuticals, healthcare consulting, academia, and health policy. My work includes clinical trial and real-world evidence analyses, with a focus on survival analysis and statistical programming in R and SAS, to support decision-making in life sciences and healthcare.
 
 Outside of work and academics, I enjoy walking in nature, listening to music, and rewatching episodes of *Friends*.
+
+### Professional Experience
+
+Senior Computational Statistician | Eli Lilly and Company | Indianapolis, IN | June 2025 - January 2026 <br>
+Scholar | Hopkins Business of Health Initiative (HBHI) | Baltimore, MD | November 2024 - May 2025 <br>
+Analyst Intern - Healthcare | Analysis Group | Boston, MA | June 2024 - August 2024 <br>
+Graduate Research Assistant | Johns Hopkins School of Medicine | Baltimore, MD | April 2024 - May 2025 <br>
+Data and Policy Analyst I - Statistical Programmer | Acumen, LLC | Burlingame, CA | August 2022 - June 2023
 
 ### Education
 
