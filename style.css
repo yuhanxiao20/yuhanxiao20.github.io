@@ -1,0 +1,11 @@
+/* More specific targeting: any image inside a postcard container */
+.container-fluid img,
+.container-flex img {
+    border-radius: 50% !important; /* make circular */
+    width: 15rem !important;       /* enforce square */
+    height: 15rem !important;
+    object-fit: cover !important;  /* crop properly */
+}
+
+
+

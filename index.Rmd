@@ -1,6 +1,6 @@
 ---
 title: "Yuhan Xiao"
-image: "yuhanx.jpeg"
+image: "yuhanx.JPEG"
 faxicon: "faxicon.ico"
 links:
   - label: '`r fontawesome::fa("linkedin", fill = "#0F52BA", height="1em", width="1em") ` LinkedIn'
@@ -11,7 +11,8 @@ links:
     url: "mailto:yuhanxiao20@gmail.com"
 
 output:
-  postcards::trestles
+  postcards::trestles:
+    css: style.css
 ---
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
